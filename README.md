@@ -3,5 +3,4 @@
 - Simple chat application using the open source sdk for ChatGPT -> https://pub.dev/packages/chat_gpt_sdk
 - OpenAI Api Key generator used -> https://openai.com/blog/openai-api
 - Might not work with free license for OpenAI, but the code is correct -> I think :)
-  
-S
+
